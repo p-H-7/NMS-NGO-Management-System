@@ -1,5 +1,7 @@
 # NMS-NGO-Management-System
+
 The NGO works for providing free school education for poor children. It needs a system for its management. The broad features of the system are listed below:</br>
+
 ● The NGO has a list of poor students registered who have sought their help. For each student the NGO maintains his/her age, class, school in which they are studying, parental income and kind of help provided by the NGO (like books, money, school dress etc.)</br>
 ● The NGO has an estimate of the amount of money needed for the books, dress, fees for different classes. Therefore it can get an estimate of the funds it needs to continue its operations.</br>
 ● The NGO maintains the track record of the performance of the students and in case of insufficient funds priority is given to brighter students, girls and low parental income (a suitable measure needed).</br>
